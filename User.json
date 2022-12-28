@@ -1,0 +1,22 @@
+{
+
+    {
+        "User_Name" : "Bikram",
+        "Password" : "Bikram#1",
+        "Designation" : "Associate"
+    },
+
+    
+    {
+        "User_Name" : "Dyutuman",
+        "Password" : "D#290",
+        "Designation" : "Manager"
+    },
+
+    
+    {
+        "User_Name" : "Ankit",
+        "Password" : "Ankit@123",
+        "Designation" : "Senior Associate"
+    }
+}
